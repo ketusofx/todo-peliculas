@@ -67,8 +67,13 @@
 </channel>
 </channels>
 
-<item>
-  <title>peliculas de hoy</title>
-  <link>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/Hoy.xml</link>
-  <thumbnail></thumbnail>
-</item>
+<channels>
+  <channel>
+    <name>Peliculas de hoy</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <link>http://ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/Hoy.xml</externallink>
+  
+  </channel>
+</channels>
