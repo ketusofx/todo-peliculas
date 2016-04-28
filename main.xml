@@ -36,7 +36,7 @@
 <link>http://ignoreme</link>
 <externallink>https://dl.dropbox.com/s/yp0hrix8htmwdsf/Rosadin%20by%20%20Fer%20TotalPlay%20Stallion.m3u</externallink>
 </channel>
-</channels>GqkNtrx5
+</channels>
 
 <channels>
 <channel>
@@ -46,7 +46,7 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/ketusofx/testt/master/lororo.xml</externallink>
 </channel>
-</channels>9sMEH7iD
+</channels>
 
 <channels>
 <channel>
@@ -56,4 +56,13 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/XBMCSpot/playlist/master/torrents/estrenos.xml</externallink>
 </channel>
-</channels>9sMEH7iD
+</channels>
+
+<channel>
+<name>PELICULAS EN CASTELLANO</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/XBMCSpot/playlist/master/torrents/hdrips.xml</externallink>
+</channel>
+</channels>
