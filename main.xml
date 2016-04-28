@@ -66,3 +66,9 @@
 <externallink>https://raw.githubusercontent.com/XBMCSpot/playlist/master/torrents/hdrips.xml</externallink>
 </channel>
 </channels>
+
+<item>
+  <title>peliculas de hoy</title>
+  <link>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/Hoy.xml</link>
+  <thumbnail></thumbnail>
+</item>
