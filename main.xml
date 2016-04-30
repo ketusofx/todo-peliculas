@@ -90,11 +90,11 @@
 
 <channels>
   <channel>
-    <name>PHOENIX</name>
+    <name>chompiras</name>
     <thumbnail></thumbnail>
     <fanart></fanart>
     <link>http://ignoreme</link>
-    <externallink>http://phoenixtv.offshorepastebin.com/main/main.xml</externallink>
+    <externallink>https://raw.githubusercontent.com/ketusofx/xml/master/elchompiras.xml</externallink>
   </channel>
 </channels>
 
