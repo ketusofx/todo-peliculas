@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>PALCO</name>
+<name>LISTAS</name>
 <thumbnail>http://s5.postimg.org/jmuecfs5z/PORNVOD.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -40,7 +40,7 @@
 
 <channels>
 <channel>
-<name>BADASS M>I>L>F.s</name>
+<name>LORORO</name>
 <thumbnail>http://s30.postimg.org/a4wize2up/milfs.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -50,7 +50,7 @@
 
 <channels>
 <channel>
-<name>estrenos</name>
+<name>PRUEBA DE TORRENTS</name>
 <thumbnail>http://s8.postimg.org/n7trebt05/image.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -77,3 +77,25 @@
   
   </channel>
 </channels>
+
+<channels>
+  <channel>
+    <name>latinos vip</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com/raw/A7pjQLax</externallink>
+  </channel>
+</channels>
+
+<channels>
+  <channel>
+    <name>PHOENIX</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://phoenixtv.offshorepastebin.com/main/main.xml</externallink>
+  </channel>
+</channels>
+
+
