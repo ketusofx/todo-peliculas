@@ -36,4 +36,15 @@
         </items>
   </channel>
 
+<channel>
+    <items>
+        <item>
+            <title>LATINOS VIP</title>
+               <thumbnail></thumbnail>
+    <fanart></fanart>
+    <link>http://ignoreme</link>
+    <externallink>http://pastebin.com/raw/A7pjQLax</externallink>
+        </item>
+    </items>
+</channel>
 </channels>	
