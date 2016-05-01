@@ -47,4 +47,17 @@
         </item>
     </items>
 </channel>
+
+<channel>
+    <items>
+        <item>
+            <title>DEADPOOL</title>
+              <thumbnail>http://bit.ly/dptapiz</thumbnail>
+    <fanart>http://bit.ly/dptapiz</fanart>
+    <externallink>http://bit.ly/deadpooladdon</externallink>
+        </item>
+    </items>
+    
+</channel>
 </channels>	
+
