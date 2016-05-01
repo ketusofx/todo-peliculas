@@ -76,11 +76,15 @@
     </channel>
     
       <channel>
+          <items>
+              <item>
     <title>chompiras</title>
     <thumbnail></thumbnail>
     <fanart></fanart>
     <link>https://raw.githubusercontent.com/ketusofx/xml/master/elchompiras.xml</link>
     <externallink>https://raw.githubusercontent.com/ketusofx/xml/master/elchompiras.xml</externallink>
+    </item>
+        </items>
   </channel>
 
 </channels>	
