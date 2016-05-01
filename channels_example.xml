@@ -12,67 +12,16 @@
     </channels_info>
     
     <channel>
-    <name>k1</name>
-    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
         <items>
-            <item>
+            <items>
                 <title>LISTAS</title>
-                <link>mms://bit.ly/1W0OJ0Y</link>
-                <thumbnail>http://channel.png</thumbnail>
-                <genre>Poker</genre>
-                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-                <fanart>http://fanart.jpg</fanart>
-                <externallink>http://bit.ly/1W0OJ0Y</externallink>
-            </item>
-            
-            <item>
-                <title>24/7</title>         
-                <link>mms://pastebin.com/raw/Gikg54ug</link>
-                <thumbnail>C:\my_thumbs\news.png</thumbnail>
-            </item>
+                <thumbnail>http://s5.postimg.org/jmuecfs5z/PORNVOD.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/e3gbxxSc</externallink>
+                
+            </items>
         </items>
-    </channel>
-
-    <channel>
-    <name>Television</name>
-    <thumbnail>http://television.png</thumbnail>
-    <fanart>http://fanart.jpg</fanart>
-    <subchannel>
-        <name>Tv 1</name>
-        <thumbnail>http://television.png</thumbnail>
-        <fanart>http://fanart.jpg</fanart>
-            <subitems>
-                <subitem>
-                <title>tv1-1</title>
-                <link>mms://some/place</link>
-                <thumbnail>http://thumb.png </thumbnail>
-                </subitem>
-
-                <subitem>
-                <title>tv1-2</title>
-                <link>http://some/place/channel_4.mp4</link>
-                <thumbnail>http://thumb.png</thumbnail>
-                </subitem>
-            </subitems>	
-        </channel>
-    </subchannel>
-    
-    <items>
-        <item>
-        <title>FILM 4</title>
-        <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Rosadin%20by%20%20Fer%20TotalPlay%20Stallion%281%29.m3u</link>
-        <thumbnail>http://thumb.png </thumbnail>
-        </item>
-
-        <item>
-        <title>CHANNEL 4</title>
-        <link>http://some/place/channel_4.mp4</link>
-        <thumbnail>http://thumb.png</thumbnail>
-        </item>
-    </items>	
     </channel>
     
       <channel>
