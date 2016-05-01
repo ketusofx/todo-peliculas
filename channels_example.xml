@@ -58,7 +58,18 @@
     <externallink>http://bit.ly/deadpooladdon</externallink>
         </item>
     </items>
+    </channel>
     
-</channel>
+    <channel>
+        <items>
+            <item>
+                <title>[COLOR green]PELICULAS[/COLOR]</title>
+                <thumbnail></thumbnail>
+    <fanart></fanart>
+    <link>http://ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/ketusofx/cat1/master/Hoy.xml</externallink>
+            </item>
+        </items>
+    </channel>
 </channels>	
 
