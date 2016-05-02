@@ -40,21 +40,21 @@
 
 <channels>
 <channel>
-<name>LORORO</name>
+<name>BASSFOX</name>
 <thumbnail>http://s30.postimg.org/a4wize2up/milfs.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ketusofx/testt/master/lororo.xml</externallink>
+<externallink>https://dl.dropbox.com/s/dgyqvy9w6zujtrk/bassfox.index.1.6.0.indexprincipalnocopiar.xml</externallink>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>PRUEBA DE TORRENTS</name>
+<name>S LATINA</name>
 <thumbnail>http://s8.postimg.org/n7trebt05/image.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/XBMCSpot/playlist/master/torrents/estrenos.xml</externallink>
+<externallink>https://googledrive.com/host/0B1OWTEhQt6paUXRXbzhKQ0NCWEU</externallink>
 </channel>
 </channels>
 
@@ -69,11 +69,11 @@
 
 <channels>
   <channel>
-    <name>Peliculas de hoy</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+    <name>MUNDO LATINO</name>
+    <thumbnail>http://tvultimate.mx/mundolatino/tv/fanart.jpg</thumbnail>
+    <fanart>http://tvultimate.mx/mundolatino/tv/fanart.jpg</fanart>
     <link>http://ignoreme</link>
-    <externallink>https://raw.githubusercontent.com/ketusofx/cat1/master/Hoy.xml</externallink>
+    <externallink>http://tvultimate.mx/mundolatino/tv/master1.php</externallink>
   
   </channel>
 </channels>
@@ -100,10 +100,10 @@
 
 <channels>
   <channel>
-    <name>DEADPOOL</name>
+    <name>TV ULTIMATE</name>
     <thumbnail>http://bit.ly/dptapiz</thumbnail>
-    <fanart>http://bit.ly/dptapiz</fanart>
-    <externallink>http://bit.ly/deadpooladdon</externallink>
+    <fanart>http://tvultimate.mx/addontv/fanart.jpg</fanart>
+    <externallink>http://tvultimate.mx/addontv/master.php</externallink>
   </channel>
 </channels>
 
