@@ -69,12 +69,11 @@
 
 <channels>
   <channel>
-    <name>m3u</name>
-    <thumbnail>http://tvultimate.mx/mundolatino/tv/fanart.jpg</thumbnail>
-    <fanart>http://tvultimate.mx/mundolatino/tv/fanart.jpg</fanart>
+    <name>M3U</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
     <link>http://ignoreme</link>
     <externallink>https://raw.githubusercontent.com/ketusofx/xml/master/main%20m3u.xml</externallink>
-  
   </channel>
 </channels>
 
