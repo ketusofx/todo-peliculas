@@ -69,11 +69,11 @@
 
 <channels>
   <channel>
-    <name>MUNDO LATINO</name>
+    <name>m3u</name>
     <thumbnail>http://tvultimate.mx/mundolatino/tv/fanart.jpg</thumbnail>
     <fanart>http://tvultimate.mx/mundolatino/tv/fanart.jpg</fanart>
     <link>http://ignoreme</link>
-    <externallink>http://tvultimate.mx/mundolatino/tv/master1.php</externallink>
+    <externallink>https://raw.githubusercontent.com/ketusofx/xml/master/m3u%20en%20xml.xml</externallink>
   
   </channel>
 </channels>
