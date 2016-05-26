@@ -9,6 +9,16 @@
 </channels>
 
 <channels>
+  <channel>
+<name>[COLOR green]•[/COLOR][COLOR orange]PELICULAS[/COLOR]</name>
+<link>http://Ignoreme</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/PeliculasNew/peliculas.xml</externallink>
+<thumbnail>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Peliculas.png</thumbnail>
+<fanart>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Fondo%20Ppal.jpg</fanart>
+</channel>
+</channels>
+
+<channels>
 <channel>
 <name>LISTAS m3u</name>
 <thumbnail>http://s5.postimg.org/jmuecfs5z/PORNVOD.jpg</thumbnail>
@@ -20,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]stallion[/COLOR]</name>
+<name>[COLOR red]SERIES[/COLOR]</name>
 <thumbnail>http://s23.postimg.org/ty2m4e9or/sextapes.jpg</thumbnail>
 <fanart>http://tvultimate.mx/addontv/fanart.jpg</fanart>
 <link>http://ignoreme</link>
