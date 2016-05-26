@@ -12,9 +12,9 @@
   <channel>
 <name>[COLOR green]•[/COLOR][COLOR orange]PELICULAS[/COLOR]</name>
 <link>http://Ignoreme</link>
-<externallink>http://projectv.pw/ProjecTV/Listas/PeliculasNew/peliculas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/ketusofx/xml/master/mxl%20addon%20.xml</externallink>
 <thumbnail>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Peliculas.png</thumbnail>
-<fanart>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Fondo%20Ppal.jpg</fanart>
+<fanart></fanart>
 </channel>
 </channels>
 
